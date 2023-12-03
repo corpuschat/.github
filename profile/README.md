@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://corpus.chat"><img width="86" src="/img/icon.png" alt="Corpus Icon"></a>
+    <a href="https://corpus.chat"><img width="128" src="/img/icon.png" alt="Corpus Icon"></a>
 </p>
 
 <p align="center"><br>
