@@ -16,14 +16,6 @@
 <p align="center">Corpus is an AI-powered chatbot that answers customers’ questions,<br>resolves support tickets, and drives growth.</h3>
 
 <p align="center"><br>
-  <a href="https://corpus.chat/docs"><img src="https://img.shields.io/badge/docs-read_the_docs-379AFA.svg?style=flat-square"></a>
-  &nbsp;
-  <a href="https://twitter.com/corpuschathq"><img src="https://img.shields.io/badge/twitter-follow_us-1d9bf0.svg?style=flat-square"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/automazeio/"><img src="https://img.shields.io/badge/linkedin-connect_with_us-0a66c2.svg?style=flat-square"></a>
-</p>
-
-<p align="center">
   <a href="https://corpus.chat"><img height="25" src="/img/social/website.svg" alt="Website"></a>
   &nbsp;
   <a href="https://twitter.com/corpuschathq"><img height="25" src="/img/social/x.svg" alt="X/Twitter"></a>
